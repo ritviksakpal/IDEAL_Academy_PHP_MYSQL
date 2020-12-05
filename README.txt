@@ -17,4 +17,4 @@ Procedure to Run on localHost:-
 3. go to the browser and in the URL: http://localhost/extracted_Folder_Name/index.php
 
 
-Git:-
+Git:- https://github.com/ritviksakpal/IDEAL_Academy_PHP_MYSQL
